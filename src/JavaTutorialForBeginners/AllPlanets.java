@@ -1,5 +1,6 @@
 package JavaTutorialForBeginners;
 
+//This is the MAIN PROGRAM. Planet.java is an example subclass that uses this
 public class AllPlanets {
 
     public static void main(String[] args) {
