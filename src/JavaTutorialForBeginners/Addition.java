@@ -1,14 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+Constructors which are called on by AdditionProgram.java
  */
 package JavaTutorialForBeginners;
 
-/**
- *
- * @author cpeahota
- */
 public class Addition {
     
     int firstNumber;
