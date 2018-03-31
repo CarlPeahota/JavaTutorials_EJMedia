@@ -11,11 +11,7 @@ public class MainMap {
         Orc1.setHeight(9);
         System.out.println(Orc1.getHeight());
         
-        Expansion NewMap = new Expansion ();
-        Orc Orc2 = new Orc();
         
-        Orc2.setHeight(15));
-         System.out.println(Orc2.getHeight());
     }
     
 }
