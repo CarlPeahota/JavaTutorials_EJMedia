@@ -6,8 +6,8 @@ public class HamburgerJoint {
 
     Food servingA = new Food ("Hamberger");
     
+    //Both lines, below, print out "Hamburger"...they just do it in different ways.
     System.out.println(servingA.getFood());
-    
     servingA.systemPrint();
 
         
